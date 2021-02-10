@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main(void)
+{    
+  double h;
+  h = 1.0 / 2 * 10 * 3 * 3;
+  printf("height = %.2lf", h);
+  return 0;
+}
